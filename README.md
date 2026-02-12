@@ -1,5 +1,7 @@
 # WebSocket Client Utility
 
+## Deprecated: use basectl
+
 A simple Go utility to connect to WebSocket endpoints and automatically detect and display plain JSON or brotli-compressed JSON messages.
 
 ## Features
